@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=MUSTAFFA%20MD|BOT)
 
 ![Status Badge](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp)
 ![Version Badge](https://img.shields.io/badge/VERSION-v1.0-blue?style=for-the-badge&logo=git)
@@ -10,7 +10,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=MUSTAFFA%20MD|BOT)
 
 ---
 ## 𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
@@ -22,13 +22,13 @@
 
 ## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧**
 
-[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
+[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/MUSTAFFA-MD/fork)
 
 ---
 
 ## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
 
-[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://popkidonlineset.onrender.com)
+[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://mustaffaonlineset.onrender.com)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### **Heroku**
 
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/POPKID-MD)
+[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/MUSTAFFA-MD)
 
 ### **Render**
 
@@ -54,7 +54,7 @@
 
 # 🎯 **Project Overview**
 
-> **POPKID-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
+> **MUSTAFFA-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
 
 ---
 
@@ -83,4 +83,4 @@
 
 ## ©️ **Creator**
 
-Developed with ❤️ by **popkid**.
+Developed with 🌠 by **MUSTAFFA MK**.
