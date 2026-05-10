@@ -83,4 +83,4 @@
 
 ## ©️ **Creator**
 
-Developed with 🌠 by **MUSTAFFA MK**.
+Developed with 🌠 by *𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲~⍟ᬼ⃟MK💀⃝⃪🕷️™*.
