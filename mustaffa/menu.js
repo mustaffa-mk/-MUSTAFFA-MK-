@@ -2,7 +2,7 @@ const config = require('../config');
 const moment = require('moment-timezone');
 const { cmd, commands } = require('../command');
 
-const MENU_IMAGE_URL = "https://files.catbox.moe/aapw1p.png";
+const MENU_IMAGE_URL = "https://d.uguu.se/CHfVCoZs.jpg";
 
 // ╔════════════════════════════╗
 //        GREETING SYSTEM
