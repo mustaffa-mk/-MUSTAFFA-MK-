@@ -160,7 +160,7 @@ async function connectToWA() {
 ║
 ║ 📞 DEV NO   ➤ ...
 ╚═━━━─── • ───━━━═╝`;
-          conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/j9ia5c.png` }, caption: up })
+          conn.sendMessage(conn.user.id, { image: { url: `https://d.uguu.se/CHfVCoZs.jpg` }, caption: up })
 
           const channelJid = "120363423997837331@newsletter"
           try {
