@@ -60,7 +60,7 @@ async (conn, mek, m, { from, reply, sender }) => {
 
         // Sending image with caption and context, but no ad reply
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/j9ia5c.png` },
+            image: { url: `https://d.uguu.se/CHfVCoZs.jpg` },
             caption: repoMsg,
             contextInfo: newsletterContextInfo
         }, { quoted: fakevCard });
