@@ -68,6 +68,7 @@
 | 💡 | **Easy Setup** | Pair and deploy your bot in minutes. |
 
 ---
+https://n.uguu.se/iHLpNQFy.mp4
 
 ## 📦 **Repository**
 
