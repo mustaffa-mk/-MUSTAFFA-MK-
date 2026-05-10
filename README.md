@@ -6,7 +6,7 @@
 
 ---
 
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+![MUSTAFFA-MD Bot Image](https://d.uguu.se/CHfVCoZs.jpg)
 
 ---
 
