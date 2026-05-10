@@ -12,14 +12,14 @@ cmd({
 },
 async (conn, mek, m, { from, reply, sender }) => {
     try {
-        const repoUrl = "https://github.com/popkidmain/NEON-MD";
-        const apiUrl = "https://api.github.com/repos/popkidmain/NEON-MD";
+        const repoUrl = "https://github.com/mustaffa-mk/-MUSTAFFA-MK-";
+        const apiUrl = "https://api.github.com/mustaffa-mk/-MUSTAFFA-MK-";
         
         // Fetching real-time data from GitHub
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        let repoMsg = `👑 *POPKID-MD REPO DETAILS* 👑
+        let repoMsg = `❤️ *MUSTAFFA REPO DETAILS* ♥️
 
 ✨ *Repository Name:* ${data.name}
 👤 *Owner:* ${data.owner.login}
@@ -29,7 +29,7 @@ async (conn, mek, m, { from, reply, sender }) => {
 
 🔗 *Repo Link:* ${repoUrl}
 
-> *Created by Popkid Kenya* 👨‍💻`;
+> *Created by Mustaffa* 🔪☔`;
 
         // Define the fakevCard (Popkid Ke)
         const fakevCard = {
@@ -40,8 +40,8 @@ async (conn, mek, m, { from, reply, sender }) => {
             },
             message: {
                 contactMessage: {
-                    displayName: "Popkid Ke",
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:popkid\nORG:popkid;\nTEL;type=CELL;type=VOICE;waid=254111385747:+254111385747\nEND:VCARD`
+                    displayName: "Mustaffa",
+                    vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Mustaffa\nORG:mustaffa;\nTEL;type=CELL;type=VOICE;waid=254111385747:+254111385747\nEND:VCARD`
                 }
             }
         };
@@ -52,8 +52,8 @@ async (conn, mek, m, { from, reply, sender }) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: config.NEWSLETTER_JID || '120363423997837331@newsletter',
-                newsletterName: config.OWNER_NAME || 'POPKID',
+                newsletterJid: config.NEWSLETTER_JID || '120363426802375516@newsletter',
+                newsletterName: config.OWNER_NAME || 'Mustaffa',
                 serverMessageId: 1
             }
         };
