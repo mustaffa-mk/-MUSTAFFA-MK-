@@ -11,11 +11,11 @@ cmd({
 },
 async (conn, mek, m, { from, reply }) => {
     try {
-        const ownerNumber = "254111385747"; // Your WhatsApp number
+        const ownerNumber = "254708637572"; // Your WhatsApp number
         const ownerName = "MUSTAFFA Kenya";
         const ownerOrg = "MUSTAFFA AI Labs";
-        const githubProfile = "https://github.com/popkidc";
-        const profilePic = "https://files.catbox.moe/j9ia5c.png"; // Your preferred image
+        const githubProfile = "https://github.com/mustaffa-mk";
+        const profilePic = "https://d.uguu.se/CHfVCoZs.jpg"; // Your preferred image
 
         // Define the vCard format
         const vcard = 'BEGIN:VCARD\n'
