@@ -77,7 +77,7 @@
 
 ## 📢 **Community Support**
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCQr93Dp2QFHPhKM904)
 
 ---
 
