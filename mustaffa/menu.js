@@ -165,7 +165,7 @@ END:VCARD`
             forwardedNewsletterMessageInfo: {
                 newsletterJid:
                     config.NEWSLETTER_JID ||
-                    '120363423997837331@newsletter',
+                    '120363426802375516@newsletter',
 
                 newsletterName:
                     config.OWNER_NAME ||
