@@ -31,7 +31,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: config.NEWSLETTER_JID || '120363423997837331@newsletter',
+                newsletterJid: config.NEWSLETTER_JID || '120363426802375516@newsletter',
                 newsletterName: "ᴘᴏᴘᴋɪᴅ-xᴍᴅ ɴᴇᴛᴡᴏʀᴋ",
                 serverMessageId: 1
             },
@@ -40,7 +40,7 @@ cmd({
                 body: "ᴀɴᴀʟʏᴢɪɴɢ ʀᴇꜱᴘᴏɴꜱᴇ ᴛɪᴍᴇ...",
                 mediaType: 1,
                 renderLargerThumbnail: false,
-                thumbnailUrl: "https://files.catbox.moe/aapw1p.png",
+                thumbnailUrl: "https://d.uguu.se/CHfVCoZs.jpg",
                 sourceUrl: "https://whatsapp.com/channel/0029Vb70ySJHbFV91PNKuL3T"
             }
         };
