@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — Auto Features Toggle
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — Auto Features Toggle
  * antidelete, autoreact, autocall, autobio, statusview, statusreact, autoread, antilink
  */
 
