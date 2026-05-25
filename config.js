@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD Configuration
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ Configuration
  * Edit all settings here before starting the bot
  */
 
