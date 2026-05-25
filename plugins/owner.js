@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — Owner Commands
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — Owner Commands
  * broadcast, block, unblock, restart, setprefix, setbio, joingc, leavegc, deletedb
  */
 
@@ -151,7 +151,7 @@ addCommand({
   alias    : ['prefix'],
   desc     : 'Change bot prefix',
   category : 'owner',
-  react    : '🔑',
+  react    : '☄',
 
   async function(conn, mek, m, { reply, text, isOwner }) {
     if (!isOwner) return reply('❌ Owner only.')
