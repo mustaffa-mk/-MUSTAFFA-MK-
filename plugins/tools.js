@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — Tool Commands
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — Tool Commands
  * weather, calc, define, translate, paste, qr, base64
  */
 
