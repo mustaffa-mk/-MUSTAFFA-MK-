@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — Group Management Commands
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — Group Management Commands
  * kick, promote, demote, tagall, groupinfo, antilink, mute, unmute, open, close
  */
 
