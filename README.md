@@ -1,4 +1,4 @@
-# 🤖 MUSTAFFA-MD WhatsApp Bot
+# 🌠MUSTAFFA-XMD-V2 WhatsApp Bot
 
 A fully-featured WhatsApp bot powered by **gifted-baileys**.
 
@@ -34,7 +34,7 @@ npm start
 ## 📁 File Structure
 
 ```
-mustaffa-md/
+mustaffa-xmd-v2/
 ├── index.js           ← Main bot file
 ├── config.js          ← All settings here
 ├── command.js         ← Command registry
@@ -161,4 +161,4 @@ npm start
 
 ---
 
-Made with ❤️ by **MUSTAFFA**
+Made with 🕷AURA🕷 by **🌠MUSTAFFA MK🌠**
