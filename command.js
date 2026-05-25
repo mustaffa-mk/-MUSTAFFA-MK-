@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD Command Registry
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ Command Registry
  * All commands are registered here via addCommand()
  */
 
