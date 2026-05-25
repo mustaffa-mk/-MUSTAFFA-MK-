@@ -21,12 +21,37 @@ addCommand({
 
     const menuText =
       `╔══════════════════════════╗\n` +
-      `║  🤖  *MUSTAFFA-MD MENU*\n` +
+      `║ 🌠  *𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™🌠 MENU*\n` +
       `╠══════════════════════════╣\n` +
-      `║ 👤 User    : ${pushname}\n` +
-      `║ ⏱️  Uptime  : ${uptime}\n` +
+      `║ ▬▬▬▬▬▬▬▬▬▬
+         🕵️ ᴜsᴇʀ ɴᴀᴍᴇ: ${pushname}\n` +
+      `║ ⏱️ UPTIME : ${uptime}\n` +
       `║ 💾 RAM     : ${mem} MB\n` +
-      `║ 🔑 Prefix  : ${config.PREFIX}\n` +
+      `║ 🔑 PREFIX  : ${config.PREFIX}\n` +
+        🦿TOTALCMDS : ${total commands}\ n` +
+       ▬▬▬▬▬▬▬▬▬▬
+          
+`;
+
+        // =====================
+        // COMMAND LIST
+        // =====================
+        for (const category of sortedCategories) {
+            menu += `\n*╭─❖ ${category} MENU ❖*\n`;
+            const sortedCommands = commandsByCategory[category].sort();
+            for (const cmdName of sortedCommands) {
+                menu += `*│❍⁠⁠ ${config.PREFIX}${cmdName}*\n`;
+            }
+            menu += `*╰──────────────❖*\n`;
+        }
+
+        // =====================
+        // FOOTER
+        // =====================
+        menu += `
+*┌─❖*
+*│𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ BOT*
+*└──────────────❖*
       `╚══════════════════════════╝\n\n` +
 
       `━━━━ 🌐 *GENERAL* ━━━━\n` +
