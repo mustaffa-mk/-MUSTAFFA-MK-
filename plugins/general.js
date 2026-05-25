@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — General Commands
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — General Commands
  * alive, ping, info, runtime, owner
  */
 
@@ -30,7 +30,7 @@ addCommand({
       `║ 🖥️  OS      : ${os.platform()}\n` +
       `║ 🔑 Prefix  : ${config.PREFIX}\n` +
       `╚══════════════════╝\n\n` +
-      `Hey *${pushname}*! I'm alive and ready. 🚀`
+      `Hey *${pushname}*! I'm 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ , and alive en ready, to serve u.stop disturbing me🕷🙄. 🚀`
 
     await conn.sendMessage(from, {
       image  : { url: config.ALIVE_IMG },
