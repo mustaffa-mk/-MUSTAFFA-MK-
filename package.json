@@ -1,7 +1,7 @@
 {
-  "name": "mustaffa-md",
-  "version": "1.0.0",
-  "description": "MUSTAFFA MD WhatsApp Bot powered by gifted-baileys",
+  "name": "𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™",
+  "version": "2.0.0",
+  "description": "𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ WhatsApp Bot powered by 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -27,8 +27,8 @@
     "youtube-dl-exec": "^2.4.0",
     "ffmpeg-static": "^5.2.0"
   },
-  "keywords": ["whatsapp", "bot", "mustaffa-md", "baileys"],
-  "author": "MUSTAFFA",
+  "keywords": ["whatsapp", "bot", "𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™", "baileys"],
+  "author": "𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
