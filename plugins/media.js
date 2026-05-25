@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD — Media Commands
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ — Media Commands
  * sticker, toimg, play, video, ytmp3, ytmp4
  */
 
