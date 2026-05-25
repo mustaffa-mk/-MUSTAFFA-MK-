@@ -1,5 +1,5 @@
 /**
- * MUSTAFFA-MD data/index.js
+ * 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ data/index.js
  * Simple JSON-based persistence layer
  */
 
