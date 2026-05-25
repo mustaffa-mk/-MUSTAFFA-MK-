@@ -1,4 +1,4 @@
-# 🌠MUSTAFFA-XMD-V2🌠 WhatsApp Bot
+# 🌠𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™🌠 WhatsApp Bot
 
 A fully-featured WhatsApp bot powered by **gifted-baileys**.
 
@@ -21,7 +21,7 @@ Or copy `.env.example` to `.env` and fill it in.
 ### 3. Set Your Owner Number
 In `config.js`:
 ```js
-OWNER_NUMBER: '254xxxxxxxxx'  // your WhatsApp number (no + or spaces)
+OWNER_NUMBER: '254708****72' // your WhatsApp number (no + or spaces)
 ```
 
 ### 4. Start the Bot
