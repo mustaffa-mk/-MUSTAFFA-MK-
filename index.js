@@ -1,13 +1,13 @@
 /**
  * ╔══════════════════════════════════════╗
- * ║        MUSTAFFA MD WhatsApp Bot      ║
- * ║     Creator: MUSTAFFA               ║
- * ║     Powered by gifted-baileys        ║
+ * ║        𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™ WhatsApp Bot      ║
+ * ║     Creator: 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲               ║
+ * ║     Powered by 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲        ║
  * ╚══════════════════════════════════════╝
  */
 
 console.clear()
-console.log("🚀 Starting MUSTAFFA-MD...")
+console.log("🚀🕷 Starting 𒋲⍟ᬼ⃟M💀⃝⃪U⛓ST۞༒A༒ FF⛓⍟ᬼ⃟A𒋲⍟ᬼ⃟MD💀⃝⃪V2🕷️™...")
 
 // ─────────────────────────────────────────
 //  GLOBAL ANTI-CRASH
@@ -82,7 +82,7 @@ if (!fs.existsSync(path.join(sessionDir, 'creds.json'))) {
     console.error('⚠️  SESSION_ID not set! Add it to config.js or env and restart.')
     process.exit(1)
   }
-  const sessdata = config.SESSION_ID.replace('MUSTAFFA;;;', '').replace('POPKID;;;', '')
+  const sessdata = config.SESSION_ID.replace('MUSTAFFA;;;', '').replace('MUSTAFFA;;;', '')
   console.log('📥 Downloading session from MEGA...')
   const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
   filer.download((err, data) => {
