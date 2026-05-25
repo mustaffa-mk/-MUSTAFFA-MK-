@@ -1,4 +1,4 @@
-# 🌠MUSTAFFA-XMD-V2 WhatsApp Bot
+# 🌠MUSTAFFA-XMD-V2🌠 WhatsApp Bot
 
 A fully-featured WhatsApp bot powered by **gifted-baileys**.
 
